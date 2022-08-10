@@ -1338,16 +1338,16 @@ body._lock {
 }
 
 .contacts-footer__item_phone {
-    background: url(icon/footer/icon\ 1.svg) 0 0 no-repeat;
+    background: url(../icon/footer/icon\ 1.svg) 0 0 no-repeat;
 }
 
 
 .contacts-footer__item_map {
-    background: url(icon/footer/icon\ 2.svg) 0 0 no-repeat;
+    background: url(../icon/footer/icon\ 2.svg) 0 0 no-repeat;
 }
 
 .contacts-footer__item_email {
-    background: url(icon/footer/icon\ 3.svg) 0 0 no-repeat;
+    background: url(../icon/footer/icon\ 3.svg) 0 0 no-repeat;
 }
 
 .footer__bottom {
