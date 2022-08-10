@@ -205,6 +205,9 @@ body._lock {
     line-height: calc(24/14*100%);
 
 }
+.menu__link:hover {
+   text-decoration: underline;
+}
 
 @media(max-width:600px) {
     .menu__link {
